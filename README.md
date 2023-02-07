@@ -29,6 +29,12 @@
 
 ## FunWithCanvas
 
+* [Code](https://github.com/islamkamalx1/CAT-week2/tree/main/FunWithCanvas) | [Preview](https://islamkamalx1.github.io/CAT-week2/FunWithCanvas/)
+
 ## Array Methods 2
 
+* [Code](https://github.com/islamkamalx1/CAT-week2/tree/main/Array%20Methods%202)
+
 ## 14 DevTools tricks
+
+* [Code](https://github.com/islamkamalx1/CAT-week2/tree/main/14%20DevTools%20tricks) | [Preview](https://islamkamalx1.github.io/CAT-week2/14%20DevTools%20tricks/)
