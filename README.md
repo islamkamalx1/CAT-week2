@@ -1,10 +1,10 @@
 # Table of content
-* [Fetch GitHub Repos](https://github.com/islamkamalx1/CAT-week2/edit/main/README.md#fetch-github-repos)
-* [Typed-Ahead](https://github.com/islamkamalx1/CAT-week2/edit/main/README.md#typed-ahead)
-* [Hold-Shift-and-Check-Checkboxes](https://github.com/islamkamalx1/CAT-week2/edit/main/README.md#hold-shift-and-check-checkboxes)
-* [FunWithCanvas](https://github.com/islamkamalx1/CAT-week2/edit/main/README.md#funwithcanvas)
-* [Array Methods 2](https://github.com/islamkamalx1/CAT-week2/edit/main/README.md#array-methods-2)
-* [14 DevTools tricks](https://github.com/islamkamalx1/CAT-week2/edit/main/README.md#14-devtools-tricks)
+* [Fetch GitHub Repos](https://github.com/islamkamalx1/CAT-week2#fetch-github-repos)
+* [Typed-Ahead](https://github.com/islamkamalx1/CAT-week2#typed-ahead)
+* [Hold-Shift-and-Check-Checkboxes](https://github.com/islamkamalx1/CAT-week2#hold-shift-and-check-checkboxes)
+* [FunWithCanvas](https://github.com/islamkamalx1/CAT-week2#funwithcanvas)
+* [Array Methods 2](https://github.com/islamkamalx1/CAT-week2#array-methods-2)
+* [14 DevTools tricks](https://github.com/islamkamalx1/CAT-week2#14-devtools-tricks)
 
 ## Fetch GitHub Repos
 
