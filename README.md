@@ -13,4 +13,12 @@
 * When user enter the user name a container will be created with the repos name, number of stars on the repo, and a button visit to go to the repo.
 * [Code](https://github.com/islamkamalx1/CAT-week2/tree/main/Fetch-Github-Repos) | [Preview](https://islamkamalx1.github.io/CAT-week2/Fetch-Github-Repos/)
 
+## Typed-Ahead
 
+## Hold-Shift-and-Check-Checkboxes
+
+## FunWithCanvas
+
+## Array Methods 2
+
+## 14 DevTools tricks
